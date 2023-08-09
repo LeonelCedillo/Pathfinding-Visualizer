@@ -3,6 +3,7 @@
 This project is an adaptation of Clement Mihailescu's Pathfinding Visualizer project (https://github.com/clementmihailescu/Pathfinding-Visualizer). All the project files are organized within the directories "/src/PathfindingVisualizer" and "/src/algorithms".
 The main component, PathfindingVisualizer, is imported and rendered in App.js.
 If you wish to enhance, modify, or fix this version, you are welcome to make changes freely.
+Visit the pathfinding visualizer here: https://lcs-pathfinding-visualizer.netlify.app
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
